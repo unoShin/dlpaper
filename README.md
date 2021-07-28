@@ -1,5 +1,5 @@
 # Deep Learning Paper
-Deep Learning Papers that I read and review
+Read & Review
 
 [Blog link](https://escape-engineering.tistory.com/)
 
