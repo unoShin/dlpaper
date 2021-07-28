@@ -1,5 +1,5 @@
 # Deep Learning Paper
-Read & Review
+Read & Review (kor)
 
 [Blog link](https://escape-engineering.tistory.com/)
 
