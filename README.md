@@ -4,6 +4,7 @@ Read & Review(kor)
 [Blog link](https://escape-engineering.tistory.com/)
 
 ## GAN
+ - Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017), Phillip Isola, Berkeley AI Research (BAIR) Laboratory, [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf), [Code](https://github.com/phillipi/pix2pix), [Review](https://escape-engineering.tistory.com/entry/Image-to-Image-Translation-with-Conditional-Adversarial-Networks?category=891722)
  - Face-to-Parameter Translation for Game Character Auto-Creation (ICCV 2019), Tianyang Shi, NetEase Fuxi AI Lab, [Paper](https://arxiv.org/abs/2008.07132), [Code](https://github.com/FuxiCV/Face-to-Parameter-V2), [Review](https://escape-engineering.tistory.com/entry/Face-to-parameter-translation?category=891722)
  - Training Generative Adversarial Networks with Limited data (NeurIPS 2020), Tero Karras, NVIDIA, [Paper](https://arxiv.org/abs/2006.06676), [Code](https://github.com/NVlabs/stylegan2-ada), [Review](https://escape-engineering.tistory.com/entry/Training-Generative-Adversarial-Networks-with-Limited-data-NeurlIPS-2020?category=891722)
 
